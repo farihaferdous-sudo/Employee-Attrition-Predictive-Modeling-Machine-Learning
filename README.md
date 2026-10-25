@@ -28,13 +28,16 @@ The main objectives of this project were to:
 
 ## Dataset
 
-The project uses an employee dataset containing information such as:
-- Demographic details
-- Job role and department
-- Work experience and tenure
-- Compensation and satisfaction indicators
-- Performance and engagement metrics
-- Attrition status (Yes/No)
+The project uses an employee attrition dataset containing information such as:
+- Age
+- Department
+- Job role
+- Years at company
+- Work-life balance
+- Monthly income
+- Performance metrics
+- Satisfaction indicators
+- Attrition status
 
 The dataset was analyzed to identify patterns that are most strongly associated with employee turnover.
 
