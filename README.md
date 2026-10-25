@@ -1,6 +1,6 @@
 # Employee Attrition Predictive Modeling
 
-This project focuses on predicting employee attrition using machine learning techniques. The goal is to analyze employee-related data, identify patterns associated with turnover, and build a predictive model that can help organizations understand which factors contribute most to employees leaving the company.
+This project focuses on predicting employee attrition using machine learning techniques. The goal is to analyze employee-related data, identify patterns associated with turnover and build a predictive model that can help organizations understand which factors contribute most to employees leaving the company.
 
 This repository demonstrates a complete workflow for data analysis, preprocessing, model training and evaluation.
 
