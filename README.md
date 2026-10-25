@@ -61,8 +61,15 @@ The workflow followed in this project includes:
    - Normalized or prepared features for model training.
 
 5. Model Building
-   - Applied machine learning classification algorithms to predict attrition.
-   - Compared model performance to determine the most effective approach.
+   Several machine learning classifiers were trained and compared to predict employee attrition, including:
+- Logistic Regression
+- Decision Tree Classifier
+- Random Forest Classifier
+- AdaBoost Classifier
+- K-Nearest Neighbors (KNN)
+- Multilayer Perceptron (MLP) Classifier
+
+These models were evaluated to determine which approach provided the most effective predictive performance for this dataset.
 
 6. Evaluation
    - Assessed model accuracy and classification quality using evaluation metrics.
