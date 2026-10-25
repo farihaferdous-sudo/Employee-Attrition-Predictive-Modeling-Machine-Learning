@@ -6,7 +6,7 @@ This repository demonstrates a complete workflow for data analysis, preprocessin
 
 ## Overview
 
-This project explores how employee-related attributes influence the likelihood of attrition. By analyzing a real-world HR dataset, I built a predictive model to identify employees at risk of leaving and highlighted the key factors contributing to turnover.
+This project explores how employee-related attributes influence the likelihood of attrition. By analyzing a real-world HR dataset, a predictive model was built to identify employees at risk of leaving and highlighted the key factors contributing to turnover.
 
 The goal was to combine data analysis, feature engineering, and machine learning to create a practical solution for workforce retention analysis.
 
