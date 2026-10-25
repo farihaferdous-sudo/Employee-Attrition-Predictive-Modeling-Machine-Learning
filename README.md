@@ -61,6 +61,7 @@ The workflow followed in this project includes:
    - Normalized or prepared features for model training.
 
 5. Model Building
+
    Several machine learning classifiers were trained and compared to predict employee attrition, including:
    - Logistic Regression
    - Decision Tree Classifier
@@ -71,7 +72,7 @@ The workflow followed in this project includes:
    
    These models were evaluated to determine which approach provided the most effective predictive performance for this dataset.
 
-6. Evaluation
+7. Evaluation
    - Assessed model accuracy and classification quality using evaluation metrics.
    - Interpreted the results to identify important features contributing to attrition.
 
